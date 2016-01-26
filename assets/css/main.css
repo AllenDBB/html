@@ -9,7 +9,7 @@
 
 /* Reset */
 
-	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, h7, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
 		border: 0;
@@ -1810,7 +1810,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #e89980;
+		color: #7D1E9D;
 		text-decoration: none;
 	}
 
@@ -1819,7 +1819,7 @@
 		}
 
 	strong, b {
-		color: #646464;
+		color: #C7C7C7;
 		font-weight: 400;
 	}
 
@@ -1831,7 +1831,7 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6, h7 {
 		color: #C7C7C7;
 		font-weight: 300;
 		line-height: 1em;
@@ -1873,6 +1873,13 @@
 		letter-spacing: 0;
 	}
 
+	h7 {
+		font-size: 1.75em;
+		line-height: 392px;
+		letter-spacing: -0.025em;
+		height: 392px;
+	}
+	
 	sub {
 		font-size: 0.8em;
 		position: relative;
@@ -3108,7 +3115,7 @@
 			}
 
 			#main > header p {
-				border-top: solid 2px #e5e5e5;
+				border-top: solid 2px #C7C7C7;
 				color: #777;
 				display: inline-block;
 				font-style: normal;
@@ -3675,7 +3682,7 @@
 		/* List */
 
 			ul.actions {
-				margin: 0 0 2em 0;
+				margin: 0 0 2em 0; 
 			}
 
 				ul.actions li {
@@ -3751,10 +3758,6 @@
 			#main > .box:first-child {
 				margin-top: 0;
 			}
-	iframe{
-		align: center;
-		
-	}
 
 		/* CTA */
 
@@ -3762,4 +3765,8 @@
 				padding: 2.5em 1em 3em 1em;
 			}
 
+	}
+	iframe{
+		align-self: center;
+		
 	}

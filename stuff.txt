@@ -1,0 +1,14 @@
+<!-- <div class="features-row">
+							<section>
+								<!-- <span class="icon major fa-bolt accent2"></span> -->
+								<!-- <span class="image featured"><img src="images/Dota2.png" alt="" /></span> -->
+								<h7>Under Construction</h7>
+								<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
+							</section>
+							<section>
+								<!-- <span class="icon major fa-bolt accent2"></span> -->
+								<!-- <span class="image featured"><img src="images/Dota2.png" alt="" /></span> -->
+								<h7>Under Construction</h7>
+								<!-- <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p> -->
+							</section> 
+						</div> -->
